@@ -2,6 +2,14 @@
 
 **This is the overview of the CS-130 Project.**
 
-1. Idea 1
-1. Idea 2
-1. Idea 3
+### Data Sets I Found Interesting
+1. https://corgis-edu.github.io/corgis/csv/astronauts/
+1. https://corgis-edu.github.io/corgis/csv/energy/
+
+### Questions for Astronauts Data
+1. 
+1.
+
+### Questions for Energy Data
+1.
+1.
