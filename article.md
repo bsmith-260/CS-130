@@ -1,4 +1,4 @@
-# CS 130 Project Overview
+# CS 130 Project- Graduates Article
 
 **This is the overview of the CS-130 Project.**
 
