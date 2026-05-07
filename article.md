@@ -1,7 +1,4 @@
 # Choosing a Major: Pay, Employment, and What the Data Leaves Out
-
-**This is the overview of the CS-130 Project.**
-
 Growing up, the pressure to choose the “right” path in life can feel overwhelming. From a young age, many people are told that they need to start thinking seriously about their future. Whether it is reminders like “It’s time to focus,” “College is right around the corner,” or “Make sure you pick the right major,” the message is often the same: the decisions you make now will shape the rest of your life. Because of this, choosing a college major can feel like one of the most important choices a person will ever make.
 
 Many people assume that a major directly determines someone’s future success, income, job opportunities, and even happiness. However, this belief is worth looking at more closely. I wanted to explore this idea by analyzing a dataset that looks at salaries and employment rates in comparison to the majors of college students. Through this data, I hope to better understand whether the major someone graduates with truly has a strong connection to their career outcomes, or if the relationship is more complicated than people often make it seem.
