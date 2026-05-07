@@ -36,4 +36,4 @@
 
 - With the data being primarily organized by major and year, it does not take into consideration each individuals personal graduate experience within that degree, or any circumstances they may have faced that have affected their abilities to work a job within the specific degree in which they graduated with.
 
-- The dataset includes a lowest salary of 0.0 in some cases, which may reflect unusual reporting, missing context, unpaid work, or another special case. Without more documentation, I cannot fully interpret what a salary of 0 means.
+- The dataset includes a lowest salary of 0.0 in some cases, which may reflect unusual reporting, missing context, unpaid work, or any other special cases. Without more explanation, it is difficult to fully interpret what a salary of 0 means.
